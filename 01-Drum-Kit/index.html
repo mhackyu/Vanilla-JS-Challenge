@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="css/style.css">
+  <title>JS Drumkit</title>
+</head>
+
+<body>
+  <div class="main">
+    <div class="main-title">
+      <div class="title">JS Drum Kit</div>
+      <div class="sub-title">by <a href="https://github.com/mhackyu" target="blank">mhackyu</a></div>
+    </div>
+    <div class="pads">
+      <div data-key="65" class="key asd">
+        <kbd>A</kbd>
+        <span class="sound-label">Kick</span>
+      </div>
+      <div data-key="83" class="key">
+        <kbd>S</kbd>
+        <span class="sound-label">Hihats</span>
+      </div>
+      <div data-key="68" class="key">
+        <kbd>D</kbd>
+        <span class="sound-label">Snare</span>
+      </div>
+    </div>
+  </div>
+
+
+  <audio data-key="65" src="assets/sounds/Kick.wav"></audio>
+  <audio data-key="83" src="assets/sounds/hat.wav"></audio>
+  <audio data-key="68" src="assets/sounds/Snare.wav"></audio>
+
+  <script src="js/main.js"></script>
+</body>
+
+</html>

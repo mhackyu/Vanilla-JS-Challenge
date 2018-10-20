@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main-title {
+  text-align: center;
+}
+
+.pads {
+  border: 1px solid black;
+}
+
+.key {
+  margin: 5px;
+  transition: all .07s;
+}
+
+.playing {
+  background-color: red;
+  color: white;
+}
