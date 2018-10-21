@@ -10,7 +10,7 @@ Just improving my Javascript knowledge. You are free to browse the code I made h
 
 ## Table of Contents
 * 01 - The Drumkit Project :drum:
-* 02 - CLock 🕥
+* 02 - Clock 🕥
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.txt file for details
