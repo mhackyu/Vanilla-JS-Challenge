@@ -1,6 +1,6 @@
 
 # Vanilla JS Challenge
-![License](https://img.shields.io/badge/license-MIT-green.svg)  ![Project Count](https://img.shields.io/badge/projects-7-ff69b4.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)  ![Project Count](https://img.shields.io/badge/projects-8-ff69b4.svg)
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)  ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)  ![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)
 
@@ -16,6 +16,7 @@ Just improving my Javascript knowledge. You are free to browse the code I made h
 * 05 - Flex Panels Image Gallery
 * 06 - Type Ahead 👀
 * 07 - Array Cardio Day 2
+* 08 - HTML Canvas 🖌
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.txt file for details
