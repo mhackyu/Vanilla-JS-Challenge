@@ -1,6 +1,6 @@
 
 # Vanilla JS Challenge
-![License](https://img.shields.io/badge/license-MIT-green.svg)  ![Project Count](https://img.shields.io/badge/projects-10-ff69b4.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)  ![Project Count](https://img.shields.io/badge/projects-11-ff69b4.svg)
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)  ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)  ![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)
 
@@ -19,6 +19,7 @@ Just improving my Javascript knowledge. You are free to browse the code I made h
 * 08 - HTML Canvas 🖌
 * 09 - Dev Tools 🔧
 * 10 - Hold Shift to Check Multiple Checkboxes ✅ 
+* 11 = Custom Video Player 🎥
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.txt file for details
